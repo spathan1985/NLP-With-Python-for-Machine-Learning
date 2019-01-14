@@ -3,6 +3,8 @@ The SMS Spam Collection is a public set of SMS labeled messages that have been c
 
 The project aims to demonstrate Natural language processing skills using Python for Machine Learning. It reads the text, cleans it, vectorizes it using different techniques, creates features, builds different models and evaluates those models using CrossFoldValidation, tunes hyperparameters using GridSearchCV and selects an optimal model depending on the results of different metrics.
 
+Here's the [link](https://archive.ics.uci.edu/ml/datasets/sms+spam+collection) to download the dataset.
+
 ## Packages/ libraries used:
 - Python (string, re, numpy, pandas, sklearn, matplotlib)
 - nltk (for nlp)
